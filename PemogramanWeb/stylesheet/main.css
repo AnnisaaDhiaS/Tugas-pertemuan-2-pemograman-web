@@ -1,0 +1,53 @@
+.header{
+    background-color: saddlebrown;
+    height: 100px;
+}
+.h_logo{
+    font-size: 88px;
+    color: white;
+    float: left;
+    padding: 3px 10px;
+}
+.h_list li{
+    font-size: 20px;
+    color: white;
+    float: left;
+    padding: 35px 20px;
+}
+
+.body{
+    background-color: sandybrown;
+    height: 600px;
+}
+.b_top{
+    color: red;
+    padding: 30px;
+}
+.footer{
+    color: whitesmoke;
+    background-color: saddlebrown;
+    height: 100px;
+}
+.f_logo{
+    font-size: 88px;
+    color: white;
+    float: left;
+    padding: 3px 10px;
+}
+.f_list{
+    font-size: 18px;
+    color: white;
+    float: right;
+}
+.f_list li{
+    padding-bottom: 20px;
+}
+
+li{
+    list-style: none;
+    
+}
+span{
+    color: red;
+}
+
